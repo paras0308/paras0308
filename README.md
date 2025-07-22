@@ -1,6 +1,6 @@
 <!-- HERO: Full‑width Starfield -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPs4NqBPQUwT8WY/giphy.gif" width="100%" alt="Starfield"/>
+  <img src="https://raw.githubusercontent.com/amaad0048/gif/main/devops.gif" width="100%" alt="Starfield"/>
 </p>
 
 <h1 align="center">👨‍🚀 Paras Dhiman</h1>
