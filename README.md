@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**paras0308/paras0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- HEADER: Animated Wave -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200"/>
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">
+  Hi there, I'm <a href="https://github.com/paras0308">Paras Dhiman</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="#about">About Me</a> •
+  <a href="#🚀-technologies">Technologies</a> •
+  <a href="#📈-stats">Stats</a> •
+  <a href="#📫-contact">Contact</a>
+</p>
+
+---
+
+## 👋 About Me
+```html
+<marquee behavior="scroll" direction="left" scrollamount="8">
+  Innovator ⚙️ | IoT & Cloud Enthusiast ☁️ | DevOps & Automation Fan 🚀 | Dreaming of Amazon 🏆
+</marquee>
+
